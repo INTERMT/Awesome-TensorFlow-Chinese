@@ -1,6 +1,11 @@
+## 目录
 
+- [Tensorflow教程资源](#Tensorflow教程资源)
+- [Tensorflow视频资源](#Tensorflow视频资源)
+- [Tensorflow项目资源](#Tensorflow项目资源)
+- [适合新手学习的Tensorflow书籍](#适合新手学习的Tensorflow书籍)
 
-## Tensorflow教程资源：
+## Tensorflow教程资源
 
 * [适合初学者的Tensorflow教程和代码示例](https://github.com/aymericdamien/TensorFlow-Examples)：该教程不光提供了一些经典的数据集，更是从实现最简单的“Hello World”开始，到机器学习的经典算法，再到神经网络的常用模型，一步步带你从入门到精通，是初学者学习Tensorflow的最佳教程。
 
@@ -13,7 +18,7 @@
 * [Tensorflow代码练习](https://github.com/terryum/TensorFlow_Exercises)：一个从易到难的Tensorflow代码练习手册。非常适合学习Tensorflow的小伙伴。
 
 
-## Tensorflow视频资源：
+## Tensorflow视频资源
 
 * [TF Girls 修炼指南](https://www.youtube.com/watchv=TrWqRMJZU8A&list=PLwY2GJhAPWRcZxxVFpNhhfivuW0kX15yG&index=2)：一个Tensorflow从零开始的公开视频课程，课程偏基础、入门，但知识点讲的非常详细。
 
@@ -28,7 +33,7 @@
 * [Tensorflow官网视频教程](https://developers.google.cn/machine-learning/crash-course/)：针对Tensorflow初级学习的小伙伴还是非常不错的一套课程，有助于大家快速入门。
 
 
-## Tensorflow项目资源：
+## Tensorflow项目资源
 
 * [一个实现实现Alex Graves论文的随机手写生成的案例](https://github.com/hardmaru/write-rnn-tensorflow)。
 
@@ -38,7 +43,7 @@
 
 * [神经网络着色灰度图像](https://github.com/pavelgonchar/colornet)：一个非常有趣且应用场景非常广的一个项目，使用神经网络着色灰度图像。
 
-* [基于Facebook中FastText的简单嵌入式文本分类器](https://github.com/apcode/tensorflow_fasttext)。该项目是源于Facebook中的FastText的想法，并在Tensorflow中实施。FastText是一款快速的文本分类器，提供简单而高效的文本分类和表征学习的方法。
+* [基于Facebook中FastText的简单嵌入式文本分类器](https://github.com/apcode/tensorflow_fasttext)：该项目是源于Facebook中的FastText的想法，并在Tensorflow中实施。FastText是一款快速的文本分类器，提供简单而高效的文本分类和表征学习的方法。
 
 * [用Tensorflow实现“基于句子分类的卷积神经网络”](https://github.com/dennybritz/cnn-text-classification-tf)
 
@@ -47,7 +52,7 @@
 * [用Tensorflow实现YOLO](https://github.com/thtrieu/darkflow)：“实时对象检测”，并支持实时在移动设备上运行的一个小项目，计算机视觉领域研究者的最佳福利。
 
 
-## 适合新手学习的Tensorflow书籍：
+## 适合新手学习的Tensorflow书籍
 
 * ***《Tensorflow:实战Google深度学习框架》*** ：这本由电子工业出版社出版的Google Tensorflow实战书籍是最早的Tensorflow书籍之一。虽然内容不是特别的系统，CNN、RNN部分介绍的不够具体以及并没有涉及到深度强化学习的内容，但书中对一些基础知识讲解的通俗易懂，另外还增加了可视化工具TensorBoard和分布式加速的章节，为这本书的整体评分增色不少。可见作者还是比较用心的，站能够在初学者的角度为大家讲解深度学习和Tensorflow的知识。 
 
